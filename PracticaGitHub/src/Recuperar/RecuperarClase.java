@@ -11,6 +11,7 @@ package Recuperar;
  */
 public class RecuperarClase {
     public static void main(String[] args) {
-        System.out.println("Recuperar clase");
+       
+        System.out.println("Checkout");
     }
 }
